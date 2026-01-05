@@ -5,6 +5,7 @@ import Showcase from "./components/Showcase";
 import Products from "./components/Products";
 import Footer from "./components/Footer";
 import Gaming from "./components/Gaming.jsx";
+import ElevatingSection from "./components/ElevatingSection.jsx";
 
 export default function App() {
     return (
@@ -15,6 +16,7 @@ export default function App() {
             <Features />
             <Showcase />
             <Products />
+            <ElevatingSection />
             <Footer />
         </>
     );
