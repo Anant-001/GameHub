@@ -8,8 +8,7 @@ const Hero = () => {
                     Exploring the <br /> Boundless Realms
                 </h1>
                 <p className="text-gray-400 mt-6 max-w-md">
-                    Discover the immersive 3D experience of GameWeb where
-                    the digital world comes to life.
+                    Discover the Immersive 3D Experience of GameWeb, Where the Digital World Comes to Life. Dive into the Cutting-Edge Technology and Innovative Design that Redefines Gaming Experiences
                 </p>
                 <button className="mt-8 bg-yellow-400 text-black px-6 py-3 rounded-full">
                     Embark
